@@ -9,3 +9,4 @@ related:
 - eclipse
 - springboot
 - exception
+- inherit
