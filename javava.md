@@ -1,4 +1,4 @@
 category: java
-lectures: Jin
+lectures: park
 related:
 - xcss

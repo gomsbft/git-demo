@@ -1,5 +1,5 @@
 category: java
-title: java basic
+title: java advan
 lectures: Han
 related:
 - spring
