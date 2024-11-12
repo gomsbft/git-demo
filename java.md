@@ -1,5 +1,5 @@
 category: java
-title: java advan
+title: java level2
 lectures: Han
 related:
 - spring
