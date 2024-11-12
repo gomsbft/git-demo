@@ -1,6 +1,6 @@
 category: java
 title: java level2
-lectures: Han
+lectures: kang
 related:
 - spring
 - MVC
