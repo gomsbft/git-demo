@@ -6,3 +6,4 @@ related:
 - MVC
 - class
 - node.js
+- eclipse
